@@ -1,6 +1,10 @@
 body{
-    background-color: #cccccc;
+    background-color: white;
     color: black;
+}
+
+.main{
+    background-color: #cccccc;
 }
 
 #banner{
@@ -17,6 +21,10 @@ p {
 
 em strong{
     color: red;
+}
+
+h2{
+    text-align: center;
 }
 
 .itens{
