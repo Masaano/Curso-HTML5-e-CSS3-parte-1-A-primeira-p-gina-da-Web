@@ -5,6 +5,7 @@ body{
 
 .main{
     background-color: #cccccc;
+    padding: 30px;
 }
 
 #banner{
@@ -29,4 +30,8 @@ h2{
 
 .itens{
     font-style: italic;
+}
+
+.benefits{
+    padding: 20px;
 }
